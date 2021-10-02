@@ -9,9 +9,10 @@ This mini project is for Final Assignment of the Object-Oriented Programming cla
 > Instructor: VIRAK UN
 
 # How to compile:
-`git clone https://github.com/pagnchanak/cpp_leave_management.git` \
-`cd cpp_leave_management` \
-`g++ main.cpp -o main.exe`
+`git clone https://github.com/pagnchanak/cpp_atm_system.git` \
+`cd cpp_atm_system` \
+`g++ main.cpp -o main`
 
 # How to run:
-Execute main.exe
+On Windows: `.\main`
+On Linux/macOS: `./main`
