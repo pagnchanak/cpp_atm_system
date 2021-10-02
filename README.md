@@ -14,5 +14,5 @@ This mini project is for Final Assignment of the Object-Oriented Programming cla
 `g++ main.cpp -o main`
 
 # How to run:
-On Windows: `.\main`
+On Windows: `.\main` \
 On Linux/macOS: `./main`
